@@ -19,6 +19,8 @@ As part of the SkillCraft Technology internship, this task involves improving th
 
 ## 🛠 Tools Used
 figma
+🧩📢You can view my project Here
+https://www.figma.com/proto/pw8wIIKGwGcBot97S6Nwi1/Untitled?t=TwKUeemegDG5BHGt-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&node-id=1-2
 
 📌 Status
 ✅ Completed  
